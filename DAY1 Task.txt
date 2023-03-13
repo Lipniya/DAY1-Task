@@ -1,0 +1,22 @@
+HTTP1 & HTTP2 Differents:
+     
+         HTTP: Hypertext Transfer Protocol
+HTTP is a request -response protocol that allows users to communicate data on the World Wide Web and transfer hypertext.
+
+HTTP 1:
+     
+         1Loads resources one after the other,so if one resource cannot be loaded it blocks all the other resource behind it.
+         The uses works on the texual format.
+         It uses requests resources inlining for use getting multiple pages.
+         It compreses data by itself.
+
+HTTP 2:
+
+        In contrast, HTTP/2 is able to use single TCP connection to send multiple streams of data at once so that no one resource blocks any other resource.
+        It works on the binary protocol.
+        It uses PUSH frame by server that collects all multiple pages.
+        It uses HPACK for data compression.
+
+TCP:Transmission Control Protocol
+
+
