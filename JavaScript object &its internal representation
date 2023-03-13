@@ -1,0 +1,13 @@
+OBJECT:
+      In JavaScript ,an object is a standalone entity with properties and type. A cup has a color,a design ,weight
+Compare it with a cup, for example .A cup is an object with properties.
+A cup has a color,a design ,weight,a material it is made of etc...
+The same way,JavaScript objects can have properties,which define their characteristics.
+ 
+      " A JavaScript object is a collection of named value having state and behavior .(properties and method)"
+EXAMPLE:
+       var person={
+       fname:"XXX",
+       iname:"YYY",
+       age:25
+       };
